@@ -1,4 +1,4 @@
-import https from "https";
+import https from "https";//this is how it's done without axios
 
 app.get("/", (req, res) => {
     const options = {
